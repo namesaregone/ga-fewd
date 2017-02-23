@@ -1,0 +1,23 @@
+h1 {
+      color: red;
+    }
+
+.highlight {
+  background-color: yellow;
+
+}
+
+p#pink {
+  background-color: pink;
+
+}
+.best {
+  background-color: green;
+  color: white;
+
+}
+
+#keanu-and-sandra {
+  height: 200px;
+
+}
