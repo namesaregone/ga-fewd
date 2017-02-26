@@ -1,0 +1,35 @@
+div {
+  background-color: #E3E3E3;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 900px;
+}
+
+h1 {
+  background-color: black;
+  color: white;
+  font-size: 16px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 5px 10px 20px 10px;
+}
+
+p {
+  background-color: #FA6666;
+  text-align: center;
+  padding: 15px 10px 15px 10px;
+  margin: 10px 10px 10px 10px;
+}
+
+#one {
+  color: blue;
+}
+
+#two {
+  color: green;
+}
+
+#three {
+  color: yellow;
+}

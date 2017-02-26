@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: red;
+  font-size: 46px;
+  margin: 0;
+}
+
+p {
+  border: 1px solid black;
+  padding:20px 15px 20px 15px;
+  margin: 0px;
+  color: orange;
+  font-size: 19px;  
+}
+
+#new {
+  color: blue;
+  background-color: yellow;
+}
+
+.pink {
+  color: pink;
+}
+
+img.frame {
+  box-shadow: 1px 4px 10px black;
+  border-radius: 10px;
+}

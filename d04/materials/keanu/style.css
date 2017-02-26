@@ -1,0 +1,25 @@
+h1 {
+  color: #7FDBFF;
+  background-color: red;
+  width: 200px;
+  padding: 10px;
+  border: 3px ridge #7FDBFF;
+  margin: 0px;
+}
+
+p {
+  color: black;
+  border: 5px groove green;
+  width: 200px;
+  margin: 0;
+  padding: 8px;
+
+}
+
+div {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  margin-bottom: 20px;
+}
+
