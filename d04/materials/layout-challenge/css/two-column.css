@@ -1,19 +1,19 @@
 body {
-  border: 20px;
+  margin: 70px;
 }
 
 div {
   background-color: #DBDBDB;
   border: 1px solid #474747;
-  margin: 10px;
+  margin: 12px;
 
 }
 
 h1 {
   margin: 10px;
-  padding-bottom: 20px;
-  font-family: Arial;
-  font-size: 30px;
+  padding-bottom: 30px;
+  font-family: sans-serif;
+  font-size: 24px;
 }
 
 #left {
@@ -29,6 +29,6 @@ h1 {
 }
 
 .horizontal {
-  width: 925px; 
-  height: 200px;
+  width: 930px; 
+  height: 150px;
 }
