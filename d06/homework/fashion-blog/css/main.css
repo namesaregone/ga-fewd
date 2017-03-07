@@ -1,0 +1,118 @@
+body {
+  font-family: 'Lato'
+}
+
+div#page {
+  width: 900px;
+  padding: 70px 0px 0px 70px;
+}
+
+div#nav {
+  margin-top: 20px;
+  margin-bottom: 80px;
+}
+
+h1, h2, h3 {
+  width: 100%;
+  margin: 0;
+  font-weight: lighter;
+}
+
+h1, a.top_menu {
+  color: #DD0000;
+}
+
+
+h1 {
+  font-size: 66px;
+}
+
+h2 {
+  color: black;
+  font-size: 32px;
+  margin-top: 10px; 
+}
+
+h3 {
+  color: black;
+  font-size: 46px;
+  margin-bottom: 20px;
+}
+
+h3.date {
+  color: #cccccc;
+
+}
+
+a {
+  display: inline-block;
+}
+
+a.top_menu {
+  color: #dddddd;
+  font-size: 28px;
+  padding-right: 20px;
+}
+
+a.top_menu:hover {
+  color: black;
+}
+
+a.continues {
+  font-weight: 700;
+  font-size: 20px;
+  width: 100%;
+  color: red;
+  text-decoration: none;
+  text-align: right;
+}
+
+a.continues:hover {
+  color: #aa0000;
+}
+
+a.bottom_menu {
+  font-size: 22px;
+  color: #DD0000;
+  text-decoration: none;
+  padding-right: 6px;
+  padding-left: 4px;
+  border-right: solid 1px grey;
+}
+
+a.bottom_menu:hover {
+  color: #aa0000;
+}
+
+a#start {
+  padding-left: 0;
+}
+
+a#end {
+  border-right: 0;
+}
+
+#img20131112 {
+  background-image: url(../img/fashion_photo.jpeg);
+  height: 300px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
+#img20131111 {
+  background-image: url(../img/fashion_photo2.jpeg);
+  height: 300px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
+p {
+  font-size: 24px;
+  line-height: 1.5;
+}
+
+p.copyright {
+  color: #bbbbbb;
+}

@@ -1,0 +1,19 @@
+div {
+  width: 1204px
+}
+
+.red-box {
+  display: inline-block;
+  height: 130px;
+  width: 600px;
+  background-color: red;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+span.year {
+  font-style: italic;
+  color: green;
+}
+
